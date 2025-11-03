@@ -28,7 +28,7 @@ This project evaluates vendor performance and retail inventory dynamics to drive
 ---
 <h2><a class="anchor" id="pipeline"></a>Pipeline</h2>
 
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/7fae4e21-9d20-4cbf-8401-5a289e8419d8" />
+<img width="1280" height="720" alt="image" src="https://github.com/shaikhfaisal2001/vendor-data-analysis/blob/main/images/Pipeline.png" />
 
 
 ---
